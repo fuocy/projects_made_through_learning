@@ -1,4 +1,4 @@
-# SMALL PET PROJECTS with REACTJS | NOTHING FANCY
+# SMALL PET PROJECTS WITH REACTJS | NOTHING FANCY
 
 ## KNOWLEDGE: Functional Component, MODULE CSS, React dev tool, Portal, useRef, useEffect, useReducer, Context API, Optimization Techniques: useMemo - useCallback, class based component, component life-circle, HTTP request, custom React hooks, form validation, Redux, SPA with React Router, Deployment Vercel, Authentication, NextJS, Animation with ReactTransitionGroup, Unit Testing, TypeScript
 
